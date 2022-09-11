@@ -1,6 +1,9 @@
-20:55 09/11 from local VSCode 
+start 20:55 09/11 from local VSCode 
+![IMG_0119](https://user-images.githubusercontent.com/102456666/189544383-2a4380f2-2e90-4562-8277-04b3e1351a7d.JPG)
+
 Vas Kast
-@kastvs (telegram)
+@kastvs (telegram), Kap66+#2437 (discord)
+
 I enjoy learning new things, and it often comes to me quite easily. I've rethought my plans for life, I want to be independent on the location, and at the same time increase my value in the labor market. I want to keep up with the times, be useful and participate in international development. IT is my alternative path from which I turned when I chose a career in economics and commerce. It's time to close my old gestalt. I want to connect my future with IT. I try myself in the frontend and backend. 
 15 years of experience in sales, career from manager to commercial director (sales, purchasing, logistics, marketing, quality system management, import, export, Internet promotion, enterprise economics, production planning, cost management, participation in international exhibitions). I have implemented a lotof projects (entering new markets, developing relationships with key customers, launching new products, deal directly to suppliers-manufacturers, optimizing the assortment line, switching to integrated accounting automation, implementing a quality management system). Periodically crossed paths with the developers of Internet sites, but as a customer, compiled tasks corrected the work of contractor.
 
@@ -56,7 +59,7 @@ b1.add_thing(cup)
 b2.add_thing(cup)
 print(b1==b2)
 
-https://www.codewars.com/users/Error404-2
+https://www.codewars.com/users/Error404-2/completed_solutions
 
 I have no experience in development yet, I added only a few lines to the telegram bot in someone else's repository. I take courses on stepik.org
 
