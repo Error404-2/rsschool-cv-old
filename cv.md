@@ -61,7 +61,7 @@ print(b1==b2)
 
 https://www.codewars.com/users/Error404-2/completed_solutions
 
-I have no experience in development yet, I added only a few lines to the telegram bot in someone else's repository. I take courses on stepik.org
+I have no experience in development yet, I added only a few lines to the telegram bot in someone else's repository https://github.com/OldCodersClub/LariskaBot/commits/master. I take courses on stepik.org
 
 Higher economic education. (St. Petersburg State University of Economics also known as UNECON). Master of Science "Wirtschaftswissenschaft", Fernuniversitaet Hagen, Deutschland. Sergey Balakirev Python courses at stepik.org .
 German (in the "conservation" stage because of lack of practice, previously fluent).
