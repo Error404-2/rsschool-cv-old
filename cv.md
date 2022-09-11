@@ -1,10 +1,12 @@
-23:45 10/09/22 from local VSCode 
+20:55 09/11 from local VSCode 
 Vas Kast
 @kastvs (telegram)
-Закрываю свой гештальт - стать программистом. Пробую себя во фронтенде и бэкенде. Получаю удовольствие от обучения новому, поэтому IT это то направление, с которым я хочу связать своё будущее. Опыт работы в продажах 15 лет, карьера от менеджера до коммерческого директора. Внедрил ряд проектов (выход на новые рынки, развитие взаимоотношений с ключевыми клиентами, вывод новой продукции, выход напрямую на поставщиков-производителей, оптимизация ассортиментной линейки, переход на комплексную автоматизацию учёта, внедрение системы менеджмента качества), периодически пересекался и с разработчиками но в качестве заказчика, составлял ТЗ, корректировал работу исполнителей. 
-Python (основы, ООП), github (основы)
+I enjoy learning new things, and it often comes to me quite easily. I've rethought my plans for life, I want to be independent on the location, and at the same time increase my value in the labor market. I want to keep up with the times, be useful and participate in international development. IT is my alternative path from which I turned when I chose a career in economics and commerce. It's time to close my old gestalt. I want to connect my future with IT. I try myself in the frontend and backend. 
+15 years of experience in sales, career from manager to commercial director (sales, purchasing, logistics, marketing, quality system management, import, export, Internet promotion, enterprise economics, production planning, cost management, participation in international exhibitions). I have implemented a lotof projects (entering new markets, developing relationships with key customers, launching new products, deal directly to suppliers-manufacturers, optimizing the assortment line, switching to integrated accounting automation, implementing a quality management system). Periodically crossed paths with the developers of Internet sites, but as a customer, compiled tasks corrected the work of contractor.
 
-Примеры кода на Python
+Python (basics, OOP), github (basics). At the moment I decided to get acquainted with html, css, javascript. I also plan to get learned with the basics of php, sql. After that, I will choose a specialization and delve into a prospective direction for me.
+
+Python code example
 class Box:
 
     def __init__(self):
@@ -56,8 +58,8 @@ print(b1==b2)
 
 https://www.codewars.com/users/Error404-2
 
-Опыта в разработке пока нет, добавил только несколько строчек в телеграмм-бота в чужом репозитории. Прохожу курсы на степике. 
+I have no experience in development yet, I added only a few lines to the telegram bot in someone else's repository. I take courses on stepik.org
 
-Образование. Высшее экономическое. СПбГУЭФ. Master of Science "Wirtschaftswissenschaft", Fernuniversitaet Hagen, Deutschland. Курсы Сергея Балакирева по Python на stepik.org. 
-Немецкий язык (в стадии "консервации" из-за отсутствия практики, ранее владел свободно) 
-Английский язык (самостоятельное изучение, А2+ согласно тесту https://test.str.by/, могу немного говорить, понимать устную речь, написанное на английском - понимаю суть без словаря, отдельные словаря перевожу. Опыт переписки с китайским поставщиком по проектированию, разработке и поставке оборудования.
+Higher economic education. (St. Petersburg State University of Economics also known as UNECON). Master of Science "Wirtschaftswissenschaft", Fernuniversitaet Hagen, Deutschland. Sergey Balakirev Python courses at stepik.org .
+German (in the "conservation" stage because of lack of practice, previously fluent).
+English (self study A2+ according to the test https://test.str.by /,  Experience of correspondence with a Chinese supplier for the design, development and supply of equipment.
