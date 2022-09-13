@@ -3,17 +3,16 @@
 <h1 align="center" > <FONT FACE="HELTERSKELTER"> Kast Vs </FONT> </h1>
 
 
-
 ---
 
-|<FONT FACE ="HERMAN"> <font size = "5"> telegram| <FONT FACE ="HERMAN"> <font size = "5">discord|
+|Telegram| <FONT FACE ="HERMAN"> <font size = "5">Discord|
 |:-|-:|
 |<FONT FACE ="arial black"> @kastvs|<FONT FACE ="arial black">Kap66+#2437|
 ___
 
 _I enjoy learning new things, and it often comes to me quite easily. I've rethought my plans for life, I want to be independent on the location, and at the same time increase my value in the labor market. I want to keep up with the times, be useful and participate in international development. IT is my alternative path from which I turned when I chose a career in economics and commerce. It's time to close my old gestalt. I want to connect my future with IT. I try myself in the frontend and backend._ 
 
-_15 years of experience in sales, career from manager to commercial director (sales, purchasing, logistics, marketing, quality system management, import, export, Internet promotion, enterprise economics, production planning, cost management, participation in international exhibitions). I have implemented a lot of projects (entering new markets, developing relationships with key customers, launching new products, deal directly to suppliers-manufacturers, optimizing the assortment line, switching to integrated accounting automation, implementing a quality management system). Periodically crossed paths with the developers of Internet sites, but as a customer, compiled tasks corrected the work of contractor._
+_15 years of experience in sales, career from manager to commercial director (sales, purchasing, logistics, marketing, quality system management, import, export, Internet promotion, enterprise economics, production planning, cost management, participation in international exhibitions). I have implemented a lot of projects (entering new markets, developing relationships with key customers, launching new products, deal directly to suppliers-manufacturers, optimizing the assortment line, switching to integrated accounting automation, implementing a quality management system). Periodically crossed paths with the developers of Internet sites, but as a customer, compiled tasks, corrected the work of contractor._
 
 ##### At the moment I decided to get acquainted with:
 - [x] Python (basics, OOP) 
@@ -79,11 +78,13 @@ b2.add_thing(cup)
 print(b1==b2)
 ```
 [![codewars](https://www.codewars.com/users/Error404-2/badges/large)](https://www.codewars.com/users/Error404-2/completed_solutions)
+    
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Error404-2)
 
 I have no experience in development yet, I added only a few lines to the telegram bot in [repository](https://github.com/OldCodersClub/LariskaBot/commits/master)  of another developer.
 
-I take also courses on [stepik.org](https://stepik.org/users/490145214)
+I take also courses on [![stepik_logotype_black@0 2x](https://user-images.githubusercontent.com/102456666/189974932-46abdbde-cee2-463a-906d-44dd2ab9f83c.jpg)
+](https://stepik.org/users/490145214)
 
 > Higher economic education. St. Petersburg State University of Economics also known as UNECON. 
 
